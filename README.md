@@ -1,6 +1,6 @@
 # mediaplayer
 
-A new Flutter project.
+A new Flutter project of audio and video player. It fetches audio and video from local storage of android or ios device and list them into app. And after that you can play any audio and video. 
 
 ## Getting Started
 
